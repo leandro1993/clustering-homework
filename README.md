@@ -1,2 +1,2 @@
 # clustering-homework
-Hands-on task for the Doctoral course "Apredizaje Automático y Aplicaciones" (UNER - Argentina)
+Hands-on task for the PhD course "Apredizaje Automático y Aplicaciones" (UNER - Argentina)
